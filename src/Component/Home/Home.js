@@ -39,6 +39,8 @@ export default function Home() {
     getTitleData();
   }, []);
 
+  
+
   const [file, setFile] = useState();
 
   const handleChange = function loadFile(e) {
