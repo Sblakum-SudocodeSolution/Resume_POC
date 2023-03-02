@@ -1,0 +1,45 @@
+{
+  "title": [
+    {
+      "title": "Web Developer",
+      "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network)",
+      "id": 1
+    }
+  ],
+  "achivement": [
+    {
+      "achivment": "An achievement is a great accomplishment—something achieved with great effort or skill.",
+      "id": 1
+    }
+  ],
+  "education": [
+    {
+      "course": "BCA",
+      "passingYear": "2022",
+      "percentage": "70",
+      "grade": "A",
+      "collage": "Shree Swaminarayan Collage Of Computer Science",
+      "id": 1
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer",
+      "experience": "1 Year",
+      "compony": "Sudocode Solution PVT.LTD",
+      "project": "Passport & Visa Management",
+      "id": 1
+    }
+  ],
+  "personalDetails": [
+    {
+      "firstName": "Sidhdharth",
+      "lastName": "Lakum",
+      "mobileNo": "1234567890",
+      "email": "test@gmail.com",
+      "address": "Vallabhipur",
+      "id": 1
+    }
+  ],
+  "profilePhoto": []
+}
